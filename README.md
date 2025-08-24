@@ -11,35 +11,15 @@
 
 ### 🚀 About Me:
 
-<table>
-<tr>
-<td>
-
+<p align="left">
+  
 - 🔭 Currently working on **AI & Backend Development**  
 - 🌱 Learning **FastAPI, LangChain, Next.js 15**  
 - 💬 Ask me about **React, MERN stack, Firebase, and AI integrations**  
 - 📫 Reach me at: **gruthwik44@gmail.com**  
 - 👨‍💻 Explore all my repos: [GitHub Profile](https://github.com/Ruthwik000)  
 
-</td>
-<td>
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/>
-</td>
-</tr>
-</table>
-
-
-### 🌐 Connect with Me:
-<p>
-  <a href="https://www.linkedin.com/in/gurram-ruthwik-goud-0b4618331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gruthwik44@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Ruthwik000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 </p>
 
 ---
