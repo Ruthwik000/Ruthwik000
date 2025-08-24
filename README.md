@@ -6,28 +6,35 @@
     <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
-
 ---
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" alt="Coding" />
 
 ### 🚀 About Me:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-
-- 🔭 Currently working on **AI & Backend Development**  
-- 🌱 Learning **FastAPI, LangChain, Next.js 15**  
-- 💬 Ask me about **React, MERN stack, Firebase, and AI integrations**  
-- 📫 Reach me at: **gruthwik44@gmail.com**  
-- 👨‍💻 Explore all my repos: [GitHub Profile](https://github.com/Ruthwik000)  
-
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/>
-  </div>
-</div>
-
+- 🔭 Currently working on **AI & Backend Development**
+- 🌱 Learning **FastAPI, LangChain, and Next.js 15**
+- 💬 Ask me about **Frontend, React, MERN stack and Firebase**
+- 📫 Reach me at: **gruthwik44@gmail.com**
+- 👨‍💻 Explore all my repos: [GitHub Profile](https://github.com/Ruthwik000)
 
 ---
+
+### 🌐 Connect with Me:
+<p>
+  <a href="https://www.linkedin.com/in/gurram-ruthwik-goud-0b4618331" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:gruthwik44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ruthwik000" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 
 ### 🛠 Skills & Tools:
 
