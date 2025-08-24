@@ -1,30 +1,35 @@
-name: Generate pacman animation
+name: Pac-Man Contribution Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:      # allows manual trigger
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Create dist folder if not exists
+        run: mkdir -p dist
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Move generated files to dist
+        run: |
+          mv pacman-contribution-graph.svg dist/ || true
+          mv pacman-contribution-graph-dark.svg dist/ || true
+
+      - name: Push Pac-Man graphs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
