@@ -73,5 +73,7 @@
 ---
 
 ### 🎮 Contribution Game:
-![Game](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/images/animation.svg)
+### 🎮 Contribution Game
+![Snake animation](https://github.com/Ruthwik000/Ruthwik000/blob/output/github-contribution-grid-snake.svg)
+
 
