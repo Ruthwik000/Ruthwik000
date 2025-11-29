@@ -90,13 +90,14 @@
 <div align="center">
   <h2>🎃 Hacktoberfest Badges</h2>
 
-  <a href="https://www.holopin.io/@ruthwik000" target="_blank">
-    <img 
-      src="https://holopin.io/api/user/board?user=ruthwik000" 
-      alt="Hacktoberfest badges for Ruthwik"
-      width="900"
-    />
-  </a>
+<a href="https://www.holopin.io/@ruthwik000" target="_blank">
+  <img 
+    src="https://holopin.io/api/user/board?user=ruthwik000&v=2" 
+    alt="Holopin badge board for Ruthwik"
+    style="max-width:700px; width:100%;"
+  />
+</a>
+
 </div>
 
 ---
