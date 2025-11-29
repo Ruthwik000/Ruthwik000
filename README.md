@@ -85,6 +85,21 @@
 </p>
 
 ---
+---
+
+<div align="center">
+  <h2>🎃 Hacktoberfest Badges</h2>
+
+  <a href="https://www.holopin.io/@ruthwik000" target="_blank">
+    <img 
+      src="https://holopin.io/api/user/board?user=ruthwik000" 
+      alt="Hacktoberfest badges for Ruthwik"
+      width="900"
+    />
+  </a>
+</div>
+
+---
 
 ### 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthwik000&layout=compact&theme=radical&hide_border=true)  
