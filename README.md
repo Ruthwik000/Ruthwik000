@@ -42,10 +42,6 @@
 
 
 
-
-
-###  Skills & Tools:
-
 <div align="center">
 
   <h3 align="center">Languages & Core Technologies</h3>
