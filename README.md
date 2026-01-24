@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gurram Ruthwik Goud</h1>
+<h1 align="center">Hi 👋, I'm G. Ruthwik</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
