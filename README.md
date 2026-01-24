@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm G. Ruthwik</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://portfolio-3-d-lake.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-blue?style=for-the-badge" />
+  <!-- 1. Typing Terminal Header: Code-style introduction -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+const+name+%3D+%22G.+Ruthwik%22%3B;%3E+role+%3D+%5B%22Full+Stack%22%2C+%22AI+Developer%22%5D%3B;%3E+status+%3D+%22Building+Scalable+Systems...%22" alt="Typing SVG" />
   </a>
-</p>
+
+  <!-- 2. Dark/Tech Badges for Contact -->
+  <p>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:gruthwik44@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 
 
@@ -20,23 +33,6 @@
 - 👨‍💻 Explore all my repos: [GitHub Profile](https://github.com/Ruthwik000)
 
 <br clear="both"/>
-
----
-
-### 🌐 Connect with Me:
-<p>
-  <a href="https://www.linkedin.com/in/gurram-ruthwik-goud-0b4618331" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:gruthwik44@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
