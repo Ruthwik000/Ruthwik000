@@ -114,9 +114,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruthwik000&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
+<h2 align="center">⚡ GitHub Analytics</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/dist/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <!-- Top Row: Stats & Views -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Fixed username here -->
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthwik000&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Ruthwik000&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
+
+<br/>
+
+<!-- Bottom Row: The Pac-Man Animation -->
+<div align="center">
+  <!-- Changed to raw.githubusercontent to ensure image loads -->
+  <img src="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
