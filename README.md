@@ -109,23 +109,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthwik000&layout=compact&theme=radical&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=Ruthwik000&label=Profile%20Views&color=blueviolet&style=flat)
 
----
-<h2 align="center">⚡ GitHub Analytics</h2>
-
-<div align="center">
-  <!-- Top Row: Stats & Views -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- Fixed username here -->
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthwik000&layout=compact&theme=dracula&hide_border=true" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Ruthwik000&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
 
 <br/>
 
