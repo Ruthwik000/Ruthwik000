@@ -132,5 +132,5 @@
 <!-- Bottom Row: The Pac-Man Animation -->
 <div align="center">
   <!-- Changed to raw.githubusercontent to ensure image loads -->
-  <img src="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Ruthwik000/Ruthwik000/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
