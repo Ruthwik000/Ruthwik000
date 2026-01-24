@@ -68,6 +68,7 @@
     <br/>
     <!-- Row 2 (Data Science & ML Libraries) -->
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+     <img src="https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-BA1E20?style=for-the-badge&logo=matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
