@@ -57,7 +57,7 @@
   <h3 align="center">Web Development</h3>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,firebase,fastapi,flask&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,firebase,redis,fastapi,flask&theme=dark" />
     </a>
   </div>
 
