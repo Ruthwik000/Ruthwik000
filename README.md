@@ -7,7 +7,7 @@
 
   <!-- 2. Dark/Tech Badges for Contact -->
   <p>
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/gurram-ruthwik-goud-0b4618331/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:gruthwik44@gmail.com">
