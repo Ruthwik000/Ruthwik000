@@ -28,21 +28,40 @@
     <td width="60%" valign="top" style="border: none;">
       <h2>🚀 About Me:</h2>
       <ul>
-        <li>🔭 Currently working on <strong>AI & Backend Development</strong></li>
-        <li>🌱 Learning <strong>FastAPI, LangChain, and Next.js 15</strong></li>
-        <li>💬 Ask me about <strong>Frontend, React, MERN stack and Firebase</strong></li>
-        <li>📫 Reach me at: <a href="mailto:gruthwik44@gmail.com"><strong>gruthwik44@gmail.com</strong></a></li>
-        <li>👨‍💻 Explore all my repos: <a href="YOUR_GITHUB_PROFILE_LINK"><strong>GitHub Profile</strong></a></li>
+        <li>🏗️ Building <strong>production-ready, scalable Full-Stack & GenAI systems</strong></li>
+        <li>🤖 Engineering <strong>LLM-powered applications, AI agents & automation workflows</strong></li>
+        <li>⚙️ Specializing in <strong>Next.js, MERN Stack, API Architecture & Cloud Deployment</strong></li>
+        <li>🧠 Working with <strong>GenAI, LangChain, RAG pipelines & real-time AI integrations</strong></li>
+        <li>🚀 <strong>Currently Working On:</strong>
+          <ul>
+            <li>🛡️ <a href="https://github.com/Ruthwik000/tokenfirewall"><strong>TokenFirewall</strong></a> — LLM cost-control middleware</li>
+            <li>📋 <a href="https://github.com/Ruthwik000/tasko-ex"><strong>Tasko-Ex</strong></a> — Intelligent productivity system</li>
+            <li>🧰 <a href="https://github.com/Ruthwik000/devtools-ex"><strong>DevTools-Ex</strong></a> — Developer workflow utilities</li>
+            <li>⚡ <a href="https://github.com/Ruthwik000/octus"><strong>Octus</strong></a> — Scalable modern application platform</li>
+          </ul>
+        </li>
+        <li>📫 Reach me at: 
+          <a href="mailto:gruthwik44@gmail.com">
+            <strong>gruthwik44@gmail.com</strong>
+          </a>
+        </li>
+        <li>👨‍💻 Explore my works: 
+          <a href="https://github.com/Ruthwik000">
+            <strong>github.com/Ruthwik000</strong>
+          </a>
+        </li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- The GIF you requested -->
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Animation" />
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+        width="100%" 
+        alt="Coding Animation" 
+      />
     </td>
   </tr>
 </table>
 
----
 
 
 <div align="center">
